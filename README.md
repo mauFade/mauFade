@@ -30,8 +30,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mauFade&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauFade&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 😎 Hackerman
-<img src="https://images7.memedroid.com/images/UPLOADED780/5bc26184e543f.jpeg" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mauFade&icon=6&color=0)](https://visitcount.itsvg.in)
