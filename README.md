@@ -28,7 +28,7 @@
 # Professional Experiences
 - ☀️ **Alexandria Solar (Jan 2022 - May 2022)**
 
-Solar energy generation focused company, i worked at the solarplant monitoration app called X-Monitor using NodeJS, React, typescript and databases like MongoDb and SQLite
+Solar energy generation focused company, i worked at the solarplant monitoration app called X-Monitor using NodeJS, React, Typescript and databases like MongoDb and SQLite.
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=mauFade&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
