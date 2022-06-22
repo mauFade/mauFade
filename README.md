@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mauricio.cds00@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mauricio-cardoso-2283541a4/](https://www.linkedin.com/in/mauricio-cardoso-2283541a4/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/maucardooso/](https://www.linkedin.com/in/mauricio-cardoso-2283541a4/)
 
 
 ## 🌐Socials
