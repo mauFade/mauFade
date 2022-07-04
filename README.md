@@ -1,7 +1,7 @@
 # 💫About Me :
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **SOLID Principles**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **TypeScript**
 
