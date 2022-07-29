@@ -1,14 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on **Personal Projects**
-
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **TypeScript**
-
-- 📫 How to reach me **mauricio.cds00@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/maucardooso/](https://www.linkedin.com/in/maucardooso/)
-
+Passionate about technologies and it's complexities, looking for networking, learning and generating value on something bigger han just myself.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/maucardooso) [![Linkedin Badge](https://img.shields.io/badge/-Mauricio%20Cardoso-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maucardooso/)](https://www.linkedin.com/in/maucardooso/) 
