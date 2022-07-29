@@ -11,7 +11,8 @@
 
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maucardooso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-cardoso-2283541a4) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mauricioc1135) 
+[![Instagram](https://img.shields.io/badge/Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/maucardooso) [![Linkedin Badge](https://img.shields.io/badge/-Mauricio%20Cardoso-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maucardooso/)](https://www.linkedin.com/in/maucardooso/) 
+[![Gmail Badge](https://img.shields.io/badge/-mauricio.cds00@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauricio.cds00@gmail.com)](mailto:mauricio.cds00@gmail.com)
 
 # Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-%23316192.svg?style=for-the-badge&logo=python&logoColor=white)
