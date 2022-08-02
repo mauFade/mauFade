@@ -18,7 +18,7 @@ Passionate about technologies and it's complexities, looking for networking, lea
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 # 👨🏽‍💻Professional Experiences
-- ☀️ **Alexandria Solar (Jan 2022 - May 2022)**
+- ☀️ **Alexandria Solar (Dec 2021 - Jun 2022)**
 
 Solar energy generation focused company, i worked at the solarplant monitoration app called X-Monitor using NodeJS, React, Typescript and databases like MongoDb and SQLite.
 
