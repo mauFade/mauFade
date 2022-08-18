@@ -1,3 +1,7 @@
+<p>
+<a href="https://www.blessingolaleye.xyz"><img width="100%" height="auto" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="175px"/></a>
+</p>
+
 # 😎About Me :
 Passionate about technologies and it's complexities, looking for networking, learning and generating value on something bigger han just myself.
 
