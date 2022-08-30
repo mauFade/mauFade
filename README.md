@@ -28,7 +28,7 @@ Solar energy generation focused company, i worked at the solarplant monitoration
 
 - 🏭 **AT Group (Aug 2022 - Present)**
 
-Industrial authomation company, i'm a NodeJs backend developer in there, i also use some Python and ReactJs during my working shifts.
+Industrial authomation company, witch i work as a NodeJs backend developer in, i also use some Python, PostgreSQL, MongoDB, NextJs and ReactJs during my working shifts.
 
 <br />
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Mauricio Cardoso's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mauFade&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
