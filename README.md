@@ -27,9 +27,6 @@ Solar energy generation focused company, i worked at the solarplant monitoration
 
 Industrial authomation company, witch i work as a NodeJs backend developer in, i also use some Python, PostgreSQL, MongoDB, NextJs and ReactJs during my working shifts.
 
-<br />
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Mauricio Cardoso's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mauFade&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=mauFade&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mauFade&theme=tokyonight&hide_border=false)<br/>
