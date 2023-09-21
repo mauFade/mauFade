@@ -4,14 +4,14 @@
 Trabalho como desenvolvedor ful stack há dois anos, minha principal stack é ReactJs e NodeJs com Typescript, mas também tenho proficiência em Go (Golang) e atualmente estou estudando Java com o ecossistema Spring. <br/><br/>
 I have been working as a full stack developer for two years, my main stack is ReactJs and NodeJs with Typescript, but I also have proficiency in Go (Golang) and I am currently studying Java with the Spring ecosystem.
 
-```ts
-class Me {
+```java
+public class Me {
   String name;
   String nationality;
   int age;
   []String techs;
 
-  public void developer() {
+  public void setDeveloper() {
     this.name = 'Mauricio Cardoso';
     this.nationality = 'Brazilian';
     this.age = 22;
