@@ -1,8 +1,8 @@
 # 😎About Me :
 <img max-width="400px" width="400px" align="right" alt="Tony" src="https://media4.giphy.com/media/12nyqXsnSLt6k8/giphy.gif"/>
 
-Trabalho como desenvolvedor ful stack há dois anos, minha principal stack é ReactJs e NodeJs com Typescript, mas também tenho proficiência em Go (Golang) e atualmente estou estudando Java com o ecossistema Spring. <br/><br/>
-I have been working as a full stack developer for two years, my main stack is ReactJs and NodeJs with Typescript, but I also have proficiency in Go (Golang) and I am currently studying Java with the Spring ecosystem.
+Trabalho como desenvolvedor ful stack há dois anos, minha principal stack é ReactJs e NodeJs com Typescript, mas também tenho proficiência em Go (Golang) e atualmente estou estudando Rust. <br/><br/>
+I have been working as a full stack developer for two years, my main stack is ReactJs and NodeJs with Typescript, but I also have proficiency in Go (Golang) and I am currently studying Rust.
 
 ```java
 public class Me {
