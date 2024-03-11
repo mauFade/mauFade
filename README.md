@@ -6,30 +6,32 @@ I have been working as a full stack developer for two years, my main stack is Re
 
 ```java
 public class Me {
-  String name;
-  String nationality;
-  int age;
-  []String techs;
+    String name;
+    String nationality;
+    int age;
+    String[] techs;
 
-  public void setDeveloper() {
-    this.name = 'Mauricio Cardoso';
-    this.nationality = 'Brazilian';
-    this.age = 22;
-    this.techs = [
-      'Typescript',
-      'NodeJS',
-      'ReactJS',
-      'Go',
-      'Docker',
-      'Docker Compose',
-      'Postgresql',
-      'MongoDB',
-      'AWS',
-      'Redis',
-      'RabbitMQ'
-    ];
-  }
+    // Construtor
+    public Me() {
+        this.name = "Mauricio Cardoso";
+        this.nationality = "Brazilian";
+        this.age = 22;
+        this.techs = new String[]{
+                "Typescript",
+                "NodeJS",
+                "ReactJS",
+                "Go",
+                "Docker",
+                "Docker Compose",
+                "Postgresql",
+                "MongoDB",
+                "AWS",
+                "Redis",
+                "RabbitMQ"
+        };
+    }
 }
+
  ```
 
 # 💻 Skill
