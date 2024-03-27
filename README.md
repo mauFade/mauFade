@@ -6,10 +6,10 @@ I have been working as a full stack developer for two years, my main stack is Re
 
 ```java
 public class Me {
-    String name;
-    String nationality;
-    int age;
-    String[] techs;
+    private String name;
+    private String nationality;
+    private int age;
+    private String[] techs;
 
     // Construtor
     public Me() {
