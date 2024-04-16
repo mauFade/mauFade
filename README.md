@@ -20,6 +20,7 @@ public class Me {
                 "Typescript",
                 "NodeJS",
                 "ReactJS",
+                "Rust",
                 "Go",
                 "Docker",
                 "Docker Compose",
