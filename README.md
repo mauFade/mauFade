@@ -1,8 +1,8 @@
 # 😎About Me :
 <img max-width="400px" width="400px" align="right" alt="Tony" src="https://media4.giphy.com/media/12nyqXsnSLt6k8/giphy.gif"/>
 
-Trabalho como desenvolvedor ful stack há dois anos, minha principal stack é ReactJs e NodeJs com Typescript, mas também tenho proficiência em Go (Golang) e atualmente estou estudando Rust. <br/><br/>
-I have been working as a full stack developer for two years, my main stack is ReactJs and NodeJs with Typescript, but I also have proficiency in Go (Golang) and I am currently studying Rust.
+Trabalho como desenvolvedor ful stack há 3 anos, minha principal stack é ReactJs e NodeJs com Typescript, mas também tenho proficiência em Go (Golang) e atualmente estou estudando Rust. <br/><br/>
+I have been working as a full stack developer for 3 years, my main stack is ReactJs and NodeJs with Typescript, but I also have proficiency in Go (Golang) and I am currently studying Rust.
 
 ```java
 public class Me {
@@ -15,7 +15,7 @@ public class Me {
     public Me() {
         this.name = "Mauricio Cardoso";
         this.nationality = "Brazilian";
-        this.age = 22;
+        this.age = 23;
         this.techs = new String[]{
                 "Typescript",
                 "NodeJS",
