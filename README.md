@@ -41,4 +41,4 @@ public class Me {
 ![mauFade's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mauFade&theme=tokyonight&hide_border=true)
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/maucardooso)  [![Gmail Badge](https://img.shields.io/badge/-mauricio.cds00@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauricio.cds00@gmail.com)](mailto:mauricio.cds00@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Mauricio%20Cardoso-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maucardooso/)](https://www.linkedin.com/in/maucardooso/) 
+[![Gmail Badge](https://img.shields.io/badge/-mauricio.cds00@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauricio.cds00@gmail.com)](mailto:mauricio.cds00@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Mauricio%20Cardoso-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maucardooso/)](https://www.linkedin.com/in/maucardooso/) 
