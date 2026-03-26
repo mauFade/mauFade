@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-Stack developer from Brazil! I like to work in cool projects and generate positive values in them<br><br>I have 3 years of professional experience with mainly React.js, Next.js, Node.js, Golang (Go), Docker Kafka and AWS.<br><br>Besides coding i like going to the gym and gaming!
+I'm a Full-Stack developer from Brazil! I like to work in cool projects and generate positive values in them<br><br>I have 4 years of professional experience with mainly React.js, React Native, Next.js, Node.js, Golang (Go), Docker Kafka and AWS.<br><br>Besides coding i like going to the gym and gaming!
 
 
 ## 🌐 Socials:
