@@ -1,0 +1,49 @@
+name: Update Years of Experience
+
+on:
+  schedule:
+    # Roda todo dia 3 de janeiro à meia-noite (UTC)
+    - cron: '0 0 3 1 *'
+  workflow_dispatch: # Permite que você rode o script manualmente no GitHub
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Calculate and Update Experience
+        run: |
+          node -e "
+            const fs = require('fs');
+            // Data de início da sua carreira
+            const startDate = new Date('2022-01-03');
+            const now = new Date();
+            
+            // Calcula a diferença exata em anos
+            let years = now.getFullYear() - startDate.getFullYear();
+            const m = now.getMonth() - startDate.getMonth();
+            if (m < 0 || (m === 0 && now.getDate() < startDate.getDate())) {
+                years--;
+            }
+
+            // Lê o README, substitui o valor entre os marcadores e salva
+            let readme = fs.readFileSync('README.md', 'utf-8');
+            readme = readme.replace(/().*?()/s, \`\$1\${years}\$2\`);
+            fs.writeFileSync('README.md', readme);
+          "
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          # Só faz o commit se houver alguma mudança real
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update years of experience"
+          git push
