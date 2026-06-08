@@ -1,21 +1,73 @@
-# 💫 About Me:
-I'm a Full-Stack developer from Brazil! I like to work in cool projects and generate positive values in them<br><br>I have 4 years of professional experience with mainly React.js, React Native, Next.js, Node.js, Golang (Go), Docker Kafka and AWS.<br><br>Besides coding i like going to the gym and gaming!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maucardooso) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cardso0824) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauricio.cds00@gmail.com) 
-
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=plastic&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mauFade&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mauFade&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauFade&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mauFade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+  <h1>Hello! I'm Maurício 👋</h1>
+  <p><b>Full-Stack Developer | React & Node.js | Golang Enthusiast</b></p>
+  <p>Building scalable applications and generating positive value through code. With 4 years of professional experience.</p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mauFade&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I'm a Full-Stack developer from Brazil with **4 years of professional experience**. I love working on cool, innovative projects and focusing on deliveries that generate real value for users and businesses.
+
+* 💻 **Current Focus:** JavaScript/TypeScript ecosystem (React, React Native, Next.js, Node.js) and robust backend development with Go.
+* ⚙️ **Practical Experience:** Cloud architectures (AWS), event streaming/message brokers (Kafka, RabbitMQ), and containerization (Docker).
+* 🏋️‍♂️ **Off-keyboard:** When I'm not coding, you can find me lifting weights at the gym, training, or gaming!
+
+## 🛠️ Tech Stack
+
+I've divided my main stack by area to keep things organized:
+
+<table>
+  <tr>
+    <th align="left">Frontend</th>
+    <th align="left">Backend & Databases</th>
+    <th align="left">DevOps, Cloud & Tools</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="16" height="16" /> React<br>
+      <img src="https://cdn.simpleicons.org/nextdotjs/black" width="16" height="16" /> Next.js<br>
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16" /> TypeScript<br>
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="16" height="16" /> TailwindCSS<br>
+      <img src="https://cdn.simpleicons.org/vite/646CFF" width="16" height="16" /> Vite
+    </td>
+    <td valign="top">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="16" height="16" /> Node.js<br>
+      <img src="https://cdn.simpleicons.org/go/00ADD8" width="16" height="16" /> Go<br>
+      <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="16" height="16" /> NestJS<br>
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="16" height="16" /> PostgreSQL<br>
+      <img src="https://cdn.simpleicons.org/redis/DC382D" width="16" height="16" /> Redis
+    </td>
+    <td valign="top">
+      <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="16" height="16" /> AWS<br>
+      <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="16" height="16" /> Apache Kafka<br>
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="16" height="16" /> Docker<br>
+      <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="16" height="16" /> GitHub Actions<br>
+      <img src="https://cdn.simpleicons.org/elasticsearch/005571" width="16" height="16" /> Elasticsearch
+    </td>
+  </tr>
+</table>
+
+> *Note: I also have hands-on experience with Rust, React Native, MongoDB, MySQL, Prisma, and SASS, always adapting to the best tool for the specific technical challenge.*
+
+## 🚀 Featured Projects
+
+Real code speaks louder than automated stats. Here are some of the platforms and systems I've been building:
+
+* [**Vektor**](#) - A robust B2B engineering platform featuring document management, complex database structures, and integrated AI conversational capabilities. *Stack: Next.js, Node.js, TypeScript.*
+* [**GradRoots**](#) - Successfully built and launched version 1.0 of this platform on the iOS App Store, focusing on a clean, premium mobile UI/UX experience. *Stack: React Native, Expo.*
+* [**ESP32 Robotics Initiative**](#) - Bridging my electrical engineering background with code by developing an intelligent cart system using ESP32 microcontrollers and custom component integrations.
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out to discuss tech, architecture, potential collaborations, or your latest gym PR!
+
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/maucardooso"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mauricio.cds00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
