@@ -1,14 +1,8 @@
 <div align="center">
   <h1>Hello! I'm Maurício 👋</h1>
   <p><b>Full-Stack Developer | React & Node.js | Golang Enthusiast</b></p>
-  <p>Building scalable applications and generating positive value through code. With 4 years of professional experience.</p>
+  <p>Building scalable applications and generating positive value through code. With 4 years of professional experience. I love working on cool, innovative projects and focusing on deliveries that generate real value for users and businesses.</p>
 </div>
-
----
-
-## 💫 About Me
-
-I'm a Full-Stack developer from Brazil with **4 years of professional experience**. I love working on cool, innovative projects and focusing on deliveries that generate real value for users and businesses.
 
 * 💻 **Current Focus:** JavaScript/TypeScript ecosystem (React, React Native, Next.js, Node.js) and robust backend development with Go.
 * ⚙️ **Practical Experience:** Cloud architectures (AWS), event streaming/message brokers (Kafka, RabbitMQ), and containerization (Docker).
