@@ -50,7 +50,7 @@ I've divided my main stack by area to keep things organized:
 Real code speaks louder than automated stats. Here are some of the platforms and systems I've been building:
 
 * [**Vektor**](#) - A robust B2B engineering platform featuring document management, complex database structures, and integrated AI conversational capabilities. *Stack: Next.js, Node.js, TypeScript.*
-* [**GradRoots**](#) - Successfully built and launched version 1.0 of this platform on the iOS App Store, focusing on a clean, premium mobile UI/UX experience. *Stack: React Native, Expo.*
+* [**GradRoots**](https://gradroots.com) - Successfully built and launched version 1.0 of this platform on the iOS App Store, focusing on a clean, premium mobile UI/UX experience. *Stack: React Native, Expo.*
 * [**ESP32 Robotics Initiative**](#) - Bridging my electrical engineering background with code by developing an intelligent cart system using ESP32 microcontrollers and custom component integrations.
 
 ---
